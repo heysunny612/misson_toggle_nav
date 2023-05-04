@@ -1,4 +1,4 @@
-# 제로베이스 자바스크립트 미션과제 1. 토글 슬라이드 네비게이션 
+# [제로베이스 자바스크립트 미션과제] 1. 토글 슬라이드 네비게이션 
 
 ![ewe](https://user-images.githubusercontent.com/127499117/236144243-96ddf09b-e6d1-4d3e-b5f9-fc9cf21ba884.gif)
 
