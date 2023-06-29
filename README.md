@@ -1,6 +1,8 @@
 # [제로베이스 자바스크립트 미션과제] 1. 토글 슬라이드 네비게이션 
 
-![ewe](https://user-images.githubusercontent.com/127499117/236144243-96ddf09b-e6d1-4d3e-b5f9-fc9cf21ba884.gif)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/127499117/236144243-96ddf09b-e6d1-4d3e-b5f9-fc9cf21ba884.gif" alt="ewe">
+</p>
 
 
 > 페이지 이동시, 리로드시에도 이전에 적용된 사이드 네비게이션 상태가 모든 웹페이지에 동일하게 적용되어야한다. 해당 상태가 전역으로 관리될 수 있게 localStorage를 이용 하였고, 웹페이지의 DOM 요소 생성이 완성된 직 후에, 로컬스토리지에 저장되어있는 상태를 가져올 수 있게 DOMContentLoaded 이벤트를 적용하였고, 사용자가 웹페이지를 떠나기 직전에 발생하는 beforeunload 이벤트를 사용해 상태 값을 localStorage로 저장해주었다. 
